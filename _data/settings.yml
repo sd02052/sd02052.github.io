@@ -11,9 +11,9 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
+- {name: 'Kiosk System',   url: 'proj-1'}
+- {name: 'OKKY',   url: 'proj-2'}
+- {name: 'Frip', url: 'proj-3'}
 
 #-------------------------------
 # Contact Section
