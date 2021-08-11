@@ -12,14 +12,14 @@ menu:
 
 projects:
 - {name: 'Kiosk System',   url: 'proj-1'}
-- {name: 'OKKY',   url: 'proj-2'}
-- {name: 'Frip', url: 'proj-3'}
+- {name: 'Developer Community',   url: 'proj-2'}
+- {name: 'Hobby Activity Sharing Web Site', url: 'proj-3'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
+- {icon: 'github',    link: 'https://github.com/sd02052'}
 - {icon: 'envelope',  link: 'mailto:sd02052@nate.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
