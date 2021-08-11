@@ -12,7 +12,7 @@ menu:
 
 projects:
 - {name: 'Kiosk System',   url: 'proj-1'}
-- {name: 'Developer Community',   url: 'proj-2'}
+- {name: 'Developer Communication Web Site',   url: 'proj-2'}
 - {name: 'Hobby Activity Sharing Web Site', url: 'proj-3'}
 
 #-------------------------------
